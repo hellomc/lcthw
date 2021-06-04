@@ -31,6 +31,8 @@ int main(int argc, char *argv[])
     for (i = 0; i < count; i++) {
         printf("%s has %d years alive.\n", names[i], ages[i]);
     }
+    
+    printf("---Print Again---\n");
     print_info(names, my_age, count);
     
     printf("---\n");
