@@ -1,3 +1,5 @@
+@Originally from Zed Shaw
+
 Learn C The Hard Way, Lectures
 ==============================
 
